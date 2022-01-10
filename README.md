@@ -1,2 +1,1 @@
-# Projeto-22
-epico
+# project-C22-template
